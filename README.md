@@ -11,3 +11,5 @@ I was able to find archived GTFS static data through Mobility Database for archi
 I read a few scholarly articles regarding on time performance, headway management, and bus lanes within NYC and other major metropolitan cities. The most common articles I found were based on the implementation of bus lanes within cities and the overall benefits of bus service since implementation. Other notable information I found was definitions for on-time performance for NYC busses and other factors that contribute to on-time performance such as route length and use of exclusive bus lanes versus not. My next steps are to load in my GTFS-RT data and see if I can join the trips of the static data. 
 
 **Update September 16th:**
+
+I haven't been able to match the trips just yet, I had some issues working off my mac recently with Python so I'm moving to my PC and migrating the data and code there, as well as updating github with the data and code. I hope to be able to scale up the timeline nedxt week as well as create a list of checks to make sure the data looks good once its joined.
