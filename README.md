@@ -13,3 +13,6 @@ I read a few scholarly articles regarding on time performance, headway managemen
 **Update September 16th:**
 
 I haven't been able to match the trips just yet, I had some issues working off my mac recently with Python so I'm moving to my PC and migrating the data and code there, as well as updating github with the data and code. I hope to be able to scale up the timeline nedxt week as well as create a list of checks to make sure the data looks good once its joined.
+
+**Update September 30th:**
+Using the joined static and real time GTFS data I have been looking at the on time comparisons for the February period. A good amount of these buses are bunched on both corridors so the major task now is to get the summary of how many are late and on time to their scheduled periods. Net week, I'll see how it compares to other comparison periods.  
