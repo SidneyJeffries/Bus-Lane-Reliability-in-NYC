@@ -16,3 +16,5 @@ I haven't been able to match the trips just yet, I had some issues working off m
 
 **Update September 30th:**
 Using the joined static and real time GTFS data I have been looking at the on time comparisons for the February period. A good amount of these buses are bunched on both corridors so the major task now is to get the summary of how many are late and on time to their scheduled periods. Net week, I'll see how it compares to other comparison periods.  
+
+**Update October 6th:**
