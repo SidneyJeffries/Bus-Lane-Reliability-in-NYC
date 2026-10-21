@@ -65,3 +65,7 @@ files = glob.glob('data/Comparison Periods/GTFS-RT data/October/Week 2/*.parquet
 oct2_rt_data = pd.concat([pd.read_parquet(f) for f in files], ignore_index=True)
 oct2_rt_data.head()
 oct2_rt_data.columns
+
+
+print(feb1_rt_data.shape)
+print(feb1_rt_data.head())
