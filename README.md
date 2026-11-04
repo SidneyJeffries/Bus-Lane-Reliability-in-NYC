@@ -9,7 +9,7 @@ join_static.py:
 
 flatbush_vs_fulton.py: This file does the actual comparison between the Fulton bus corridor and Flatbush bus corridor. The on-time metric, charts, and maps comparing the two live in here. 
 
-rtintervals.py: Checks the intervals of 
+rtintervals.py: Measures how often each bus reports its location by calculating the time between consecutive Automatic Vehicle Location (AVL) updates.
 
 schedule_status.py: Classifies on-time performance as early, on-time, and late by using thresholds of 1 minute or earlier and 5 minutes or more for late. 
 
