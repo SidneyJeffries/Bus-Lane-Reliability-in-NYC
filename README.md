@@ -6,6 +6,7 @@ Repository for Independent Study Project looking at bus speeds and on time servi
 - Mention more about the specifics of the prediction model once its flushed out
 
 **Files in the Main Branch:**
+
 gtfs.py: Builds the historic static schedule by loading in the static gtfs data parses it into the two week comparison periods for February, July, April, and October.
 
 gtfsrt.py: Loads the GTFS-RT data into parses them by comparison period
