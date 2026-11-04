@@ -12,8 +12,6 @@ join_static.py
 
 schedule_status.py
 
-bk_feb_combined.py (might delete) 
-
 flatbush_vs_fulton.py 
 
 
